@@ -1,0 +1,10 @@
+server.port: 7001
+
+logging:
+  level:
+    root: INFO
+    com.union.microservices: DEBUG
+
+spring:
+  application:
+    name: product-service
